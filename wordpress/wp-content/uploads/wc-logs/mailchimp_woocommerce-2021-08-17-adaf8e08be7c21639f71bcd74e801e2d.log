@@ -1,0 +1,333 @@
+2021-08-17T12:24:48+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 610312cf3eefa
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 74bb256814
+            [name] => Prasad Kavitkar
+            [domain] => https://weariton.dbsprojects.ie/wordpress
+            [email_address] => prasadkavitkar98d@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0899734703
+            [address] => Array
+                (
+                    [address1] => Shanowen square
+                    [city] => Dublin 9
+                    [province] => Dublin
+                    [postal_code] => D09A3P8
+                    [country] => IE
+                    [country_code] => IE
+                    [phone] => 0899734703
+                    [company] => Prasad Kavitkar
+                )
+
+        )
+
+)
+
+2021-08-17T12:24:49+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 610312cf3eefa
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 74bb256814
+            [name] => Prasad Kavitkar
+            [domain] => https://weariton.dbsprojects.ie/wordpress
+            [email_address] => prasadkavitkar98d@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0899734703
+            [address] => Array
+                (
+                    [address1] => Shanowen square
+                    [city] => Dublin 9
+                    [province] => Dublin
+                    [postal_code] => D09A3P8
+                    [country] => IE
+                    [country_code] => IE
+                    [phone] => 0899734703
+                    [company] => Prasad Kavitkar
+                )
+
+        )
+
+)
+
+2021-08-17T12:24:51+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 610312cf3eefa
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 74bb256814
+            [name] => Prasad Kavitkar
+            [domain] => https://weariton.dbsprojects.ie/wordpress
+            [email_address] => prasadkavitkar98d@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0899734703
+            [address] => Array
+                (
+                    [address1] => Shanowen square
+                    [city] => Dublin 9
+                    [province] => Dublin
+                    [postal_code] => D09A3P8
+                    [country] => IE
+                    [country_code] => IE
+                    [phone] => 0899734703
+                    [company] => Prasad Kavitkar
+                )
+
+        )
+
+)
+
+2021-08-17T12:24:52+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Tue, Aug 17, 2021 12:24 PM
+2021-08-17T12:24:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-08-17T12:25:07+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-08-17T12:25:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-08-17T12:25:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-08-17T12:25:09+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 69
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 71
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 73
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 74
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 75
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 76
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 77
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 78
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 79
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 80
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 112
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 115
+2021-08-17T12:25:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 121
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 132
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 142
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 194
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 209
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 210
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 211
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 212
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 229
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 242
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 247
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 252
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 307
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 316
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 324
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 340
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 345
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 349
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2876
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2974
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2975
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2976
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2984
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2985
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2986
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2987
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2988
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2989
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2990
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2991
+2021-08-17T12:25:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2992
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2993
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2994
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2995
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2996
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2997
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2998
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2999
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3000
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3001
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3002
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3003
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3005
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3006
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3007
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3008
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3009
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3010
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3011
+2021-08-17T12:25:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 3012
+2021-08-17T12:25:13+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-08-17T12:25:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #69
+2021-08-17T12:25:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #71
+2021-08-17T12:25:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #73
+2021-08-17T12:25:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #74
+2021-08-17T12:25:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #75
+2021-08-17T12:25:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #76
+2021-08-17T12:25:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #77
+2021-08-17T12:25:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #78
+2021-08-17T12:25:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #79
+2021-08-17T12:25:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #80
+2021-08-17T12:25:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #112
+2021-08-17T12:25:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #115
+2021-08-17T12:25:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #121
+2021-08-17T12:25:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #132
+2021-08-17T12:25:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #142
+2021-08-17T12:25:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #194
+2021-08-17T12:25:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #209
+2021-08-17T12:25:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #210
+2021-08-17T12:25:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #211
+2021-08-17T12:25:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #212
+2021-08-17T12:25:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #229
+2021-08-17T12:25:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #242
+2021-08-17T12:25:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #247
+2021-08-17T12:25:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #252
+2021-08-17T12:25:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #307
+2021-08-17T12:25:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #316
+2021-08-17T12:25:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #324
+2021-08-17T12:25:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #340
+2021-08-17T12:25:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #345
+2021-08-17T12:25:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #349
+2021-08-17T12:25:28+00:00 NOTICE product_submit.warning :: addStoreProduct :: post #2876 was invalid.
+2021-08-17T12:25:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #2974
+2021-08-17T12:25:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #2975
+2021-08-17T12:25:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #2976
+2021-08-17T12:25:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #2984
+2021-08-17T12:25:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #2985
+2021-08-17T12:25:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #2986
+2021-08-17T12:25:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #2987
+2021-08-17T12:25:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #2988
+2021-08-17T12:25:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #2989
+2021-08-17T12:25:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #2990
+2021-08-17T12:25:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #2991
+2021-08-17T12:25:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #2992
+2021-08-17T12:25:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #2993
+2021-08-17T12:25:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #2994
+2021-08-17T12:25:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #2995
+2021-08-17T12:25:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #2996
+2021-08-17T12:25:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #2997
+2021-08-17T12:25:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #2998
+2021-08-17T12:25:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #2999
+2021-08-17T12:25:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #3000
+2021-08-17T12:25:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #3001
+2021-08-17T12:25:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #3002
+2021-08-17T12:26:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #3003
+2021-08-17T12:26:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #3005
+2021-08-17T12:26:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #3006
+2021-08-17T12:26:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #3007
+2021-08-17T12:26:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #3008
+2021-08-17T12:26:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #3009
+2021-08-17T12:26:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #3010
+2021-08-17T12:26:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #3011
+2021-08-17T12:26:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #3012
+2021-08-17T12:26:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-08-17T12:26:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 2
+2021-08-17T12:26:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order queued :: obj_id 3040
+2021-08-17T12:26:07+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-08-17T12:26:10+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T12:26:10+00:00 NOTICE order_submit.success :: addStoreOrder :: #3040 :: email: pratzy@gmail.com
+2021-08-17T12:26:15+00:00 NOTICE sync.completed :: Finished Sync :: Tue, Aug 17, 2021 12:26 PM (total time: 00:01:23)
+2021-08-17T12:28:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T12:28:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3043
+2021-08-17T12:28:56+00:00 NOTICE debug :: Order ID 3043 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://weariton.dbsprojects.ie/wordpress/wordpress/index.php/product/dnk-cross-tshirt-2/
+        )
+
+)
+
+2021-08-17T12:29:04+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T12:29:04+00:00 NOTICE cart.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to en
+2021-08-17T12:29:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 3042
+2021-08-17T12:30:05+00:00 NOTICE promo_code_submit.success :: #3042 :: code: h75xx8x2
+2021-08-17T12:30:41+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to en
+2021-08-17T12:30:41+00:00 NOTICE order_submit.success :: addStoreOrder :: #3043 :: email: pratzy@gmail.com :: landing site https://weariton.dbsprojects.ie/wordpress/wordpress/index.php/product/dnk-cross-tshirt-2/ :: abandoned cart deleted [870a355e719a217960e76ce7ac88752a]
+2021-08-17T12:30:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 3042
+2021-08-17T12:31:07+00:00 NOTICE promo_code_submit.success :: #3042 :: code: h75xx8x2
+2021-08-17T12:33:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3040
+2021-08-17T12:33:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3043
+2021-08-17T12:35:31+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T12:35:31+00:00 NOTICE order_submit.success :: updateStoreOrder :: #3040 :: email: pratzy@gmail.com
+2021-08-17T12:35:34+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T12:35:34+00:00 NOTICE order_submit.success :: updateStoreOrder :: #3043 :: email: pratzy@gmail.com
+2021-08-17T12:36:00+00:00 NOTICE debug :: Order ID 3043 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-08-17T12:36:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3043
+2021-08-17T12:37:44+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T12:37:44+00:00 NOTICE order_submit.success :: updateStoreOrder :: #3043 :: email: pratzy@gmail.com
+2021-08-17T12:52:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T12:52:38+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T12:59:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3043
+2021-08-17T13:02:25+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T13:02:25+00:00 NOTICE order_submit.success :: updateStoreOrder :: #3043 :: email: pratzy@gmail.com :: abandoned cart deleted [870a355e719a217960e76ce7ac88752a]
+2021-08-17T13:05:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3044
+2021-08-17T13:05:43+00:00 NOTICE debug :: Order ID 3044 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://weariton.dbsprojects.ie/wordpress/wordpress/index.php/checkout/order-received/3043/?key=wc_order_lrTO8JzHjE4Vs
+        )
+
+)
+
+2021-08-17T13:07:27+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to en
+2021-08-17T13:07:27+00:00 NOTICE order_submit.success :: addStoreOrder :: #3044 :: email: pratzy@gmail.com :: landing site https://weariton.dbsprojects.ie/wordpress/wordpress/index.php/checkout/order-received/3043/?key=wc_order_lrTO8JzHjE4Vs
+2021-08-17T18:23:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:24:14+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:24:15+00:00 NOTICE cart.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to en
+2021-08-17T18:34:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:34:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3045
+2021-08-17T18:34:12+00:00 NOTICE debug :: Order ID 3045 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://weariton.dbsprojects.ie/wordpress/wordpress/
+        )
+
+)
+
+2021-08-17T18:35:34+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:35:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:36:05+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to en
+2021-08-17T18:36:05+00:00 NOTICE order_submit.success :: addStoreOrder :: #3045 :: email: pratzy@gmail.com :: landing site https://weariton.dbsprojects.ie/wordpress/wordpress/
+2021-08-17T18:36:06+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:36:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3046
+2021-08-17T18:36:59+00:00 NOTICE debug :: Order ID 3046 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-08-17T18:37:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:37:32+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:38:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:39:13+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:39:13+00:00 NOTICE system.debug :: order 3046 is in failed status, and is being skipped for now.
+2021-08-17T18:51:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 870a355e719a217960e76ce7ac88752a
+2021-08-17T18:58:20+00:00 NOTICE abandoned_cart.success :: email: pratzy@gmail.com :: checkout_url: https://weariton.dbsprojects.ie/wordpress/index.php/checkout/?mc_cart_id=870a355e719a217960e76ce7ac88752a
+2021-08-17T18:58:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 3046
+2021-08-17T18:58:25+00:00 NOTICE debug :: Order ID 3046 was failed and is now processing :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-08-17T23:57:08+00:00 NOTICE order.member.updated :: Updated pratzy@gmail.com subscriber status to subscribed and language to 
+2021-08-17T23:57:08+00:00 NOTICE order_submit.success :: addStoreOrder :: #3046 :: email: pratzy@gmail.com :: landing site https://weariton.dbsprojects.ie/wordpress/wordpress/wp-admin/admin-ajax.php?action=mailchimp_set_user_by_email&email=pratzy@gmail.com&mc_language=en :: abandoned cart deleted [870a355e719a217960e76ce7ac88752a]
